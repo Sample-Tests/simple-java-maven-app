@@ -1,3 +1,3 @@
-@Library('jenkins-library')_
+@Library('jenkins-library@main')_
 
 mavenPipe()
